@@ -1,2 +1,2 @@
-# UTS-UAS-ML
-Isi UTS UAS ML Sem 4
+# UAS-ML
+Isi UAS ML Sem 4
